@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="Batch2.Nike"/>
+      <class name="Batch1.Myntra"/>
+      <class name="Batch1.CSK"/>
+      <class name="Batch2.QspiderDemo"/>
+      <class name="Batch1.MI"/>
+      <class name="Batch1.FlipKart"/>
+      <class name="Batch2.DWS"/>
+      <class name="Batch2.ShoperStack"/>
+      <class name="Batch1.Amazon"/>
+      <class name="Batch2.RCB"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
